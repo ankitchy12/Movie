@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "6aa4",
+      "title": "Jerry",
+      "genre": "romantic",
+      "year": 20014
+    },
+    {
+      "id": "0a9d",
+      "title": "commando",
+      "genre": "action",
+      "year": 2012
+    },
+    {
+      "id": "7efe",
+      "title": "pk ",
+      "genre": "comedy",
+      "year": 2016
+    },
+    {
+      "id": "053b",
+      "title": "krish",
+      "genre": "action ",
+      "year": 2008
+    }
+  ]
+}
